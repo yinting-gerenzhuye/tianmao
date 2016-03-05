@@ -162,7 +162,7 @@ g();*/
 
 
 	//选显卡
-/*	var sc=getClass("sc-5");
+	var sc=getClass("sc-5");
 	var zc=getClass("zhong")
 	for(var i=0;i<sc.length;i++){
 		sc[i].index=i;//index保存相应对象的i的值
@@ -177,10 +177,10 @@ g();*/
 			this.style.fontWeight="bold";
 			this.style.textDecoration="underline";
 		}
-	}*/
+	}
 
-   
-        var onearr=[];
+   //选显卡自动添加
+       /* var onearr=[];
         var twoarr=[];
         var threearr=[];
         var fourarr=[];
@@ -243,7 +243,7 @@ g();*/
           con[now].innerHTML="";
           show(now);
         }
-        
+        */
         
      
 

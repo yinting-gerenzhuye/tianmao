@@ -422,13 +422,13 @@ margin-right:5px;
   .tstp-2{
  float:right;
  }
-/*   .tstp-3{
- width:836px;
+.tstp-3{
+ width:834px;
 height:326px; 
  float:left; 
  margin-left:4px;
  overflow: hidden;
- } */
+ }  
  .conbox{
   width: 836px;height: 326px;float: left;
  }
