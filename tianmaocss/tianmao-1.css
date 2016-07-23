@@ -38,7 +38,7 @@ background:red;
 }*/
 /*”“≤‡πÃ∂®∂®Œª*/
 .gd-position{
-  width:35px;height:819px;background:#000;position:fixed;right:0;top:0;color:#fff;padding-top:150px;text-align:center;
+  width:35px;height:819px;background:#000;position:fixed;right:0;top:0;color:#fff;padding-top:150px;text-align:center;z-index: 10;
 }
 .gd-position p{
   width:90px;height:35px;background:#555;color:#fff;

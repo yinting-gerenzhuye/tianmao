@@ -358,7 +358,7 @@ g();*/
 
 
         //楼层跳转
-          if(scrollT>=1000){
+          if(scrollT>=1000&&scrollT<6500){
             button.style.display="block";
           }else{
             button.style.display="none";
